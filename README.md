@@ -2,8 +2,8 @@
 
 ## About Me: 
 - 🇮🇹 Italian but studying and living in the Netherlands for 4 years 
-- 🧑🏻‍💻 23-year-old   
-- 🔭 Data Science and AI student - currently studying at TU Delft 
+- 🧑🏻‍💻 24-year-old   
+- 🔭 Data Science and AI student - currently studying at Amsterdam Univeristy
 - 🌱 I have a Bachelor's degree in Data Science and Artificial Intelligence from Maastricht University
 - 🧃 Pronouns: They/Them
 - 🍓 Hobbies: Football, Video Making
